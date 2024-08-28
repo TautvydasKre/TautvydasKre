@@ -51,17 +51,19 @@ I am currently enhancing my skills in Python and exploring various topics, inclu
 ## 🔥 Projects & Contributions
 Here are a few highlights of my work:
 
-### [Project Name](#)
+### [COMING SOON](#)
+<!--
 - **Technologies**: HTML, CSS, JavaScript, Node.js, MongoDB
 - **Description**: A brief description of what this project does and its unique features.
 
-### [Project Name](#)
+### [COMING SOON](#)
 - **Technologies**: React, Firebase, TypeScript
 - **Description**: A brief description of what this project does and its unique features.
 
-### [Project Name](#)
+### [COMING SOON](#)
 - **Technologies**: Python, Django, Pandas, Numpy
 - **Description**: A brief description of what this project does and its unique features.
+-->
 
 Feel free to check out my repositories to see more of my work!
 
