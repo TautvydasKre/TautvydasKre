@@ -59,11 +59,11 @@ Here are a few highlights of my work:
 ### [Finance Managment](https://github.com/TautvydasKre/FinanceManagment.git)
 - **Technologies**: VanilaJS, MongoDB, HTML, CSS, Node.js
 - **Description**: A user-friendly finance management application that helps you track income, expenses, and savings in one convenient place. Built with VanillaJS and MongoDB for real-time data handling, the app provides financial reports to help users make informed financial decisions.
-<!--
-### [COMING SOON](#)
-- **Technologies**: Python, Django, Pandas, Numpy
-- **Description**: A brief description of what this project does and its unique features.
--->
+
+### [Toxic Dragon](https://github.com/TautvydasKre/Toxic-Dragon.git)
+- **Technologies**: VanilaJD, HTML, CSS
+- **Description**: "Toxic Dragon" is a "Flappy Bird" clone developed using VanillaJS, HTML, and CSS. This project follows a step-by-step guide to recreate the classic game while enhancing its performance for smoother gameplay. The game features a unique dragon character navigating through obstacles, offering a fun and challenging experience with optimized code for improved responsiveness.
+
 
 Feel free to check out my repositories to see more of my work!
 
