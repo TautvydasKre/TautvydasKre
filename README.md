@@ -55,11 +55,11 @@ Here are a few highlights of my work:
 
 - **Technologies**: HTML, CSS, React, Node.js, MongoDB
 - **Description**:  This page is a modern web application designed for posting and browsing advertisements for items for sale. Utilizing React for a dynamic frontend experience and Node.js with MongoDB for a powerful backend, this platform allows users to easily create, manage, and search through listings. 
-<!--
-### [COMING SOON](#)
+
+### [Finance Managment](#)
 - **Technologies**: React, Firebase, TypeScript
 - **Description**: A brief description of what this project does and its unique features.
-
+<!--
 ### [COMING SOON](#)
 - **Technologies**: Python, Django, Pandas, Numpy
 - **Description**: A brief description of what this project does and its unique features.
