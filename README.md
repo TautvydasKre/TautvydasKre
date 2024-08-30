@@ -68,7 +68,7 @@ Here are a few highlights of my work:
 Feel free to check out my repositories to see more of my work!
 
 ## 📫 How to reach me
-- **LinkedIn**: [Check my profile](https://www.linkedin.com/in/tautvydas-kreivys-164180298/)
+- **LinkedIn**: [Check my profile](https://www.linkedin.com/in/tautvydas-kreivys)
 - **Email**: [tautvydas.kreivys@gmail.com](mailto:tautvydas.kreivys@gmail.com)
 
 ## ⚡ Interesting Facts
