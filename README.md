@@ -51,7 +51,7 @@ I am currently enhancing my skills in Python and exploring various topics, inclu
 ## 🔥 Projects & Contributions
 Here are a few highlights of my work:
 
-### [SellIt](https://github.com/TautvydasKre/ad-page.git)
+### [Sell-It](https://github.com/TautvydasKre/ad-page.git)
 
 - **Technologies**: HTML, CSS, React, Node.js, MongoDB
 - **Description**:  This page is a modern web application designed for posting and browsing advertisements for items for sale. Utilizing React for a dynamic frontend experience and Node.js with MongoDB for a powerful backend, this platform allows users to easily create, manage, and search through listings. 
