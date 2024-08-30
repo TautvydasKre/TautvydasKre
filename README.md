@@ -64,9 +64,9 @@ Here are a few highlights of my work:
 - **Technologies**: VanilaJS, HTML, CSS
 - **Description**: "Toxic Dragon" is a "Flappy Bird" clone developed using VanillaJS, HTML, and CSS. This project follows a step-by-step guide to recreate the classic game while enhancing its performance for smoother gameplay. The game features a unique dragon character navigating through obstacles, offering a fun and challenging experience with optimized code for improved responsiveness.
 
-### [Pong Game](https://github.com/TautvydasKre/Toxic-Dragon.git) -----> [TRY IT OUT](https://pong-game-azure.vercel.app)
+### [Pong Game](https://github.com/TautvydasKre/Pong_Game.git) -----> [TRY IT OUT](https://pong-game-azure.vercel.app)
 - **Technologies**: VanilaJS, HTML, CSS
-- **Description**: 
+- **Description**: This "Pong Game" is a modern take on the classic arcade game, built with VanillaJS, HTML, and CSS. The game features smooth animations and responsive controls, allowing players to compete against the computer. This project follows a step-by-step guide to recreate the classic game.
 
 
 <!--(https://pong-game-azure.vercel.app) -->
