@@ -51,11 +51,11 @@ I am currently enhancing my skills in Python and exploring various topics, inclu
 ## 🔥 Projects & Contributions
 Here are a few highlights of my work:
 
-### [COMING SOON](#)
-<!--
-- **Technologies**: HTML, CSS, JavaScript, Node.js, MongoDB
-- **Description**: A brief description of what this project does and its unique features.
+### [SellIt](https://github.com/TautvydasKre/ad-page.git)
 
+- **Technologies**: HTML, CSS, React, Node.js, MongoDB
+- **Description**:  This page is a modern web application designed for posting and browsing advertisements for items for sale. Utilizing React for a dynamic frontend experience and Node.js with MongoDB for a powerful backend, this platform allows users to easily create, manage, and search through listings. 
+<!--
 ### [COMING SOON](#)
 - **Technologies**: React, Firebase, TypeScript
 - **Description**: A brief description of what this project does and its unique features.
