@@ -56,9 +56,9 @@ Here are a few highlights of my work:
 - **Technologies**: HTML, CSS, React, Node.js, MongoDB
 - **Description**:  This page is a modern web application designed for posting and browsing advertisements for items for sale. Utilizing React for a dynamic frontend experience and Node.js with MongoDB for a powerful backend, this platform allows users to easily create, manage, and search through listings. 
 
-### [Finance Managment](#)
-- **Technologies**: React, Firebase, TypeScript
-- **Description**: A brief description of what this project does and its unique features.
+### [Finance Managment](https://github.com/TautvydasKre/FinanceManagment.git)
+- **Technologies**: VanilaJS, MongoDB, HTML, CSS, Node.js
+- **Description**: A user-friendly finance management application that helps you track income, expenses, and savings in one convenient place. Built with VanillaJS and MongoDB for real-time data handling, the app provides financial reports to help users make informed financial decisions.
 <!--
 ### [COMING SOON](#)
 - **Technologies**: Python, Django, Pandas, Numpy
