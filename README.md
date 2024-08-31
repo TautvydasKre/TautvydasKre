@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer w
 </p>-->
 
 ### Other Skills
-- **Project Management**: Understanding of Agile methodologies, including sprints
+- **Project Management**: Understanding of Agile methodologies, including sprints & SCRUM
 - **Linux**: VirtualBox setup, Linux server management
 - **Testing**: UNIT testing, RegEx in Python
 
