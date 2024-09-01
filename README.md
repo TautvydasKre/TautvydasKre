@@ -68,7 +68,11 @@ Here are a few highlights of my work:
 - **Technologies**: VanilaJS, HTML, CSS
 - **Description**: This "Pong Game" is a modern take on the classic arcade game, built with VanillaJS, HTML, and CSS. The game features smooth animations and responsive controls, allowing players to compete against the computer. This project follows a step-by-step guide to recreate the classic game.
 
-
+<!--
+### [Pong Game](https://github.com/TautvydasKre/Pong_Game.git) ----.-> [TRY IT OUT](https://pong-game-azure.vercel.app)
+- **Technologies**: VanilaJS, HTML, CSS
+- **Description**:
+-->
 <!--(https://pong-game-azure.vercel.app) -->
 
 Feel free to check out my repositories to see more of my work!
