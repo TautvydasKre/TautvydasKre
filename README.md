@@ -86,4 +86,4 @@ Feel free to check out my repositories to see more of my work!
 - I have two dogs: a mixed breed male and an American Bully XL female.
 - I love cycling and other active outdoor activities that keep me fit and energized, such as hiking and running.
 
-Thanks for visiting my profile! Let's connect and create something amazing together! 😊
+Thanks for visiting my profile! Let's connect! 😊
