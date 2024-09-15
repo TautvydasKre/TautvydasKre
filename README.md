@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer w
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-<!--
+
 ### Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-</p>-->
+</p>
 
 ### Other Skills
 - **Project Management**: Understanding of Agile methodologies, including sprints & SCRUM
