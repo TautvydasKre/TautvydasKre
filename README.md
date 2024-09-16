@@ -1,6 +1,16 @@
 # Hi there, I'm Tautvydas! 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer with a diverse skill set and a strong foundation in various programming languages and tools. I've completed my Full Stack JavaScript studies at a vocational school, where I honed my skills in both front-end and back-end technologies. I am currently expanding my knowledge of back-end development by taking Python courses at Code Academy.
+![Banner](https://your-banner-image-url.com) <!-- Add your profile banner image here -->
+
+Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer with a diverse skill set and a strong foundation in various programming languages and tools. My journey includes completing Full Stack JavaScript studies at a vocational school, where I refined my expertise in both front-end and back-end technologies. I am currently expanding my knowledge of back-end development through Python courses at Code Academy.
+
+## 🚀 Professional Summary
+As a dedicated developer, I strive to create innovative solutions and drive technology forward. With experience in both front-end and back-end development, I am skilled in a variety of technologies and passionate about continuous learning and improvement.
+
+## 🏆 Achievements & Certifications
+- Completed Full Stack JavaScript studies with honors.
+- Currently enrolled in Python courses at Code Academy.
+<!-- - [Certification Name](#) - Description of certification. -->
 
 ## 🚀 Skills & Technologies
 
@@ -34,17 +44,16 @@ Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer w
   <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
 </p>
 
-### Other Skills
-- **Project Management**: Understanding of Agile methodologies, including sprints & SCRUM
-- **Linux**: VirtualBox setup, Linux server management
-- **Testing**: UNIT testing, RegEx in Python
+### Testing
+- **Unit Testing**: Experienced with writing and running unit tests in Python using the `unittest` framework to ensure code reliability and correctness.
+- **Regular Expressions**: Proficient in using RegEx for data validation and parsing.
 
 ## 🌱 Currently Learning
-I am currently enhancing my skills in Python and exploring various topics, including:
+I am actively enhancing my skills in Python and exploring various topics, including:
 - Virtual Environments
 - GUI Development in Python
 - Advanced RegEx and its applications in Python
-- Web Scraping and Data Analysis using libraries like Numpy and Pandas
+- Web Scraping and Data Analysis using libraries like NumPy and Pandas
 - Machine Learning basics
 - Linux server deployment and management with Django
 
@@ -52,34 +61,34 @@ I am currently enhancing my skills in Python and exploring various topics, inclu
 Here are a few highlights of my work:
 
 ### [Sell-It](https://github.com/TautvydasKre/ad-page.git)
-
 - **Technologies**: HTML, CSS, React, Node.js, MongoDB
-- **Description**:  This page is a modern web application designed for posting and browsing advertisements for items for sale. Utilizing React for a dynamic frontend experience and Node.js with MongoDB for a powerful backend, this platform allows users to easily create, manage, and search through listings. 
+- **Description**: A modern web application for posting and browsing advertisements for items for sale. It features a dynamic frontend with React and a powerful backend with Node.js and MongoDB.
 
-### [Finance Managment](https://github.com/TautvydasKre/FinanceManagment.git)
-- **Technologies**: VanilaJS, MongoDB, HTML, CSS, Node.js
-- **Description**: A user-friendly finance management application that helps you track income, expenses, and savings in one convenient place. Built with VanillaJS and MongoDB for real-time data handling, the app provides financial reports to help users make informed financial decisions.
+### [Finance Management](https://github.com/TautvydasKre/FinanceManagment.git)
+- **Technologies**: VanillaJS, MongoDB, HTML, CSS, Node.js
+- **Description**: A user-friendly finance management app to track income, expenses, and savings. Built with VanillaJS and MongoDB, it provides real-time data handling and financial reports.
 
 ### [Toxic Dragon](https://github.com/TautvydasKre/Toxic-Dragon.git) -----> [TRY IT OUT](https://toxic-dragon-1gu6jq75d-tautvydas-projects-48b435cb.vercel.app)
-- **Technologies**: VanilaJS, HTML, CSS
-- **Description**: "Toxic Dragon" is a "Flappy Bird" clone developed using VanillaJS, HTML, and CSS. This project follows a step-by-step guide to recreate the classic game while enhancing its performance for smoother gameplay. The game features a unique dragon character navigating through obstacles, offering a fun and challenging experience with optimized code for improved responsiveness.
+- **Technologies**: VanillaJS, HTML, CSS
+- **Description**: A "Flappy Bird" clone with a unique dragon character, developed using VanillaJS, HTML, and CSS. The project enhances gameplay performance and responsiveness.
 
 ### [Pong Game](https://github.com/TautvydasKre/Pong_Game.git) -----> [TRY IT OUT](https://pong-game-azure.vercel.app)
-- **Technologies**: VanilaJS, HTML, CSS
-- **Description**: This "Pong Game" is a modern take on the classic arcade game, built with VanillaJS, HTML, and CSS. The game features smooth animations and responsive controls, allowing players to compete against the computer. This project follows a step-by-step guide to recreate the classic game.
+- **Technologies**: VanillaJS, HTML, CSS
+- **Description**: A modern take on the classic Pong game, featuring smooth animations and responsive controls. Built with VanillaJS, HTML, and CSS.
 
 <!--
 ### [Pong Game](https://github.com/TautvydasKre/Pong_Game.git) ----.-> [TRY IT OUT](https://pong-game-azure.vercel.app)
-- **Technologies**: VanilaJS, HTML, CSS
-- **Description**:
+- **Technologies**: VanillaJS, HTML, CSS
+- **Description**: This "Pong Game" is a modern take on the classic arcade game. It features smooth animations and responsive controls, allowing players to compete against the computer. Built with VanillaJS, HTML, and CSS.
 -->
-<!--(https://pong-game-azure.vercel.app) -->
 
-Feel free to check out my repositories to see more of my work!
+## 📈 GitHub Stats
+![Tautvydas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TautvydasKre&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 How to reach me
 - **LinkedIn**: [Check my profile](https://www.linkedin.com/in/tautvydas-kreivys)
 - **Email**: [tautvydas.kreivys@gmail.com](mailto:tautvydas.kreivys@gmail.com)
+- **Personal Website**: [Visit my portfolio](https://www.yourportfolio.com) <!-- Add your portfolio link here -->
 
 ## ⚡ Interesting Facts
 - I served in the military for 7 years in Lithuania 🇱🇹.
