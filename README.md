@@ -1,6 +1,6 @@
 # Hi there, I'm Tautvydas! 👋
 
-<!-- ![Banner](https://your-banner-image-url.com) <!-- Add your profile banner image here --> -->
+<!-- ![Banner](https://your-banner-image-url.com) <!-- Add your profile banner image here -->
 
 Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer with a diverse skill set and a strong foundation in various programming languages and tools. My journey includes completing Full Stack JavaScript studies at a vocational school, where I refined my expertise in both front-end and back-end technologies. I am currently expanding my knowledge of back-end development through Python courses at Code Academy.
 
