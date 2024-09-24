@@ -83,6 +83,9 @@ Here’s a quick overview of my GitHub activity and contributions!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TautvydasKre&layout=compact&theme=radical)
 
+![Contribution Graph](https://github.com/TautvydasKre.png?size=200&width=200&height=200)
+
+
 ## 📫 How to reach me
 - **LinkedIn**: [Check my profile](https://www.linkedin.com/in/tautvydas-kreivys)
 - **Email**: [tautvydas.kreivys@gmail.com](mailto:tautvydas.kreivys@gmail.com)
