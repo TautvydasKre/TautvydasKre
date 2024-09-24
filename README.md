@@ -2,10 +2,10 @@
 
 <!-- ![Banner](https://your-banner-image-url.com) <!-- Add your profile banner image here -->
 
-Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer with a diverse skill set and a strong foundation in various programming languages and tools. My journey includes completing Full Stack JavaScript studies at a vocational school, where I refined my expertise in both front-end and back-end technologies. I am currently expanding my knowledge of back-end development through Python courses at Code Academy.
+Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer with a diverse skill set and a strong foundation in various programming languages and tools. My journey includes completing Full Stack JavaScript studies at a vocational school, where I refined my expertise in both front-end and back-end technologies. Currently, I am expanding my knowledge of back-end development through Python courses at Code Academy.
 
 ## 🚀 Professional Summary
-As a dedicated developer, I strive to create innovative solutions and drive technology forward. With experience in both front-end and back-end development, I am skilled in a variety of technologies and passionate about continuous learning and improvement.
+As a dedicated developer, I strive to create innovative solutions that drive technology forward. With experience in both front-end and back-end development, I am skilled in a variety of technologies and passionate about continuous learning and improvement.
 
 ## 🏆 Achievements & Certifications
 - Completed Full Stack JavaScript studies with honors.
@@ -54,7 +54,7 @@ I am actively enhancing my skills in Python and exploring various topics, includ
 - GUI Development in Python
 - Advanced RegEx and its applications in Python
 - Web Scraping and Data Analysis using libraries like NumPy and Pandas
-- Machine Learning basics
+- Basics of Machine Learning
 - Linux server deployment and management with Django
 
 ## 🔥 Projects & Contributions
@@ -62,7 +62,7 @@ Here are a few highlights of my work:
 
 ### [Sell-It](https://github.com/TautvydasKre/ad-page.git)
 - **Technologies**: HTML, CSS, React, Node.js, MongoDB
-- **Description**: A modern web application for posting and browsing advertisements for items for sale. It features a dynamic frontend with React and a powerful backend with Node.js and MongoDB.
+- **Description**: A modern web application for posting and browsing advertisements for items for sale, featuring a dynamic frontend with React and a powerful backend with Node.js and MongoDB.
 
 ### [Finance Management](https://github.com/TautvydasKre/FinanceManagment.git)
 - **Technologies**: VanillaJS, MongoDB, HTML, CSS, Node.js
@@ -76,20 +76,12 @@ Here are a few highlights of my work:
 - **Technologies**: VanillaJS, HTML, CSS
 - **Description**: A modern take on the classic Pong game, featuring smooth animations and responsive controls. Built with VanillaJS, HTML, and CSS.
 
-<!--
-### [Pong Game](https://github.com/TautvydasKre/Pong_Game.git) ----.-> [TRY IT OUT](https://pong-game-azure.vercel.app)
-- **Technologies**: VanillaJS, HTML, CSS
-- **Description**: This "Pong Game" is a modern take on the classic arcade game. It features smooth animations and responsive controls, allowing players to compete against the computer. Built with VanillaJS, HTML, and CSS.
--->
-
 ## 📈 GitHub Stats
 Here’s a quick overview of my GitHub activity and contributions!
 
 ![Tautvydas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TautvydasKre&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true&border_radius=10&bg_color=30,e96443,904e95)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TautvydasKre&layout=compact&theme=radical)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TautvydasKre&layout=compact&theme=radical&hide=html&hide=css)
 
 ## 📫 How to reach me
 - **LinkedIn**: [Check my profile](https://www.linkedin.com/in/tautvydas-kreivys)
