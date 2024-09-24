@@ -83,6 +83,7 @@ Here’s a quick overview of my GitHub activity and contributions!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TautvydasKre&theme=radical&hide_border=true)
 
+
 ## 📫 How to reach me
 - **LinkedIn**: [Check my profile](https://www.linkedin.com/in/tautvydas-kreivys)
 - **Email**: [tautvydas.kreivys@gmail.com](mailto:tautvydas.kreivys@gmail.com)
