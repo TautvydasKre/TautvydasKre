@@ -84,7 +84,9 @@ Here are a few highlights of my work:
 
 ## 📈 GitHub Stats
 Here’s a quick overview of my GitHub activity and contributions!
+
 ![Tautvydas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TautvydasKre&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true&border_radius=10&bg_color=30,e96443,904e95)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TautvydasKre&layout=compact&theme=radical)
 
 
