@@ -60,8 +60,7 @@ I am actively enhancing my skills in Python and exploring various topics, includ
 ## 🔥 Projects & Contributions
 Here are a few highlights of my work:
 
-https://omnifood-tautvydas.netlify.app/
-### [Toxic Dragon](https://github.com/TautvydasKre/omnifood.git) -----> [TRY IT OUT](https://omnifood-tautvydas.netlify.app/)
+### [Omnifood](https://github.com/TautvydasKre/omnifood.git) -----> [TRY IT OUT](https://omnifood-tautvydas.netlify.app/)
 - **Technologies**: HTML, CSS, JS.
 - **Description**: Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs.
 
