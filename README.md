@@ -10,7 +10,7 @@ As a dedicated developer, I strive to create innovative solutions that drive tec
 ## 🏆 Achievements & Certifications
 - Completed Full Stack JavaScript studies.
 - Currently enrolled in Python courses at Code Academy.
-<!-- - [Certification Name](#) - Description of certification. -->
+- [Build Responsive Real-World Websites with HTML and CSS](https://udemy-certificate.s3.amazonaws.com/pdf/UC-fb0cf357-084c-4c2b-af78-e0fc9a00205c.pdf) - A comprehensive course on building responsive, professional-grade websites using modern HTML and CSS techniques.
 
 ## 🚀 Skills & Technologies
 
