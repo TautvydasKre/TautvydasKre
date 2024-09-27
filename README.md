@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer w
 As a dedicated developer, I strive to create innovative solutions that drive technology forward. With experience in both front-end and back-end development, I am skilled in a variety of technologies and passionate about continuous learning and improvement.
 
 ## 🏆 Achievements & Certifications
-- Completed Full Stack JavaScript studies with honors.
+- Completed Full Stack JavaScript studies.
 - Currently enrolled in Python courses at Code Academy.
 <!-- - [Certification Name](#) - Description of certification. -->
 
