@@ -60,6 +60,11 @@ I am actively enhancing my skills in Python and exploring various topics, includ
 ## 🔥 Projects & Contributions
 Here are a few highlights of my work:
 
+https://omnifood-tautvydas.netlify.app/
+### [Toxic Dragon](https://github.com/TautvydasKre/omnifood.git) -----> [TRY IT OUT](https://omnifood-tautvydas.netlify.app/)
+- **Technologies**: HTML, CSS, JS.
+- **Description**: Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs.
+
 ### [Sell-It](https://github.com/TautvydasKre/ad-page.git)
 - **Technologies**: HTML, CSS, React, Node.js, MongoDB
 - **Description**: A modern web application for posting and browsing advertisements for items for sale, featuring a dynamic frontend with React and a powerful backend with Node.js and MongoDB.
