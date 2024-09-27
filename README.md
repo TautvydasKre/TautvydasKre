@@ -62,7 +62,7 @@ Here are a few highlights of my work:
 
 ### [Omnifood](https://github.com/TautvydasKre/omnifood.git) -----> [TRY IT OUT](https://omnifood-tautvydas.netlify.app/)
 - **Technologies**: HTML, CSS, JS.
-- **Description**: Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs.
+- **Description**: Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs. This project was made in my "Udemy" courses together with a instructor Jonas Schmedtmann
 
 ### [Sell-It](https://github.com/TautvydasKre/ad-page.git)
 - **Technologies**: HTML, CSS, React, Node.js, MongoDB
