@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack JavaScript Developer w
 As a dedicated developer, I strive to create innovative solutions that drive technology forward. With experience in both front-end and back-end development, I am skilled in a variety of technologies and passionate about continuous learning and improvement.
 
 ## 🏆 Achievements & Certifications
-- Completed Full Stack JavaScript studies.
+- [Completed Full Stack JavaScript studies.](https://www.dakpr.smm.lt/aikos2-dakpr/downloadDocument?oid=93f580f02e3111ef8a87daa0d1288fef) - This comprehensive course provided me with in-depth knowledge of both front-end and back-end development. I mastered JavaScript fundamentals and advanced techniques, gaining hands-on experience with technologies like Node.js, React, and MongoDB. It was a transformative learning experience, equipping me with the skills to build full-scale, dynamic web applications.
 - Currently enrolled in Python courses at Code Academy.
 - [Build Responsive Real-World Websites with HTML and CSS](https://udemy-certificate.s3.amazonaws.com/pdf/UC-fb0cf357-084c-4c2b-af78-e0fc9a00205c.pdf) - A comprehensive course on building responsive, professional-grade websites using modern HTML and CSS techniques.
 
